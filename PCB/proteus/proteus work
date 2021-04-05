@@ -1,0 +1,5 @@
+1.Use the link provided to install proteus software.
+2.Go through basic tutorials of proteus. 
+3."ARDUINO MEGA shield.pdsprj" provided here as a reference for making various arduino sheilds.Shields are use for better way of connection between board(eg:Arduino) and connecting wires. 
+4."arduino_shield.pdsprj" -ardunio shield used for AUV. All the connections to arduino mega was established through this shield. 
+5.
